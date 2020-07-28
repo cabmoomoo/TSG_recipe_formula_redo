@@ -10,3 +10,5 @@ This mod will have not direct affect on gameplay, as no base game recipe has mor
 If you are a mod creator, and make use of the changes in this mod, make sure that on the Steam Workshop page for your mod, you list this as a required mod so users will be alerted if they do not already have this mod downloaded.
 
 This mod is incompatible with any other mod that changes factory_default_resource_output in factory.lisp, or manipulates any of the related formulas.
+
+This mod can now be found on [url=https://github.com/cabmoomoo/TSG_recipe_formula_redo]GitHub[/url]. Feel free to use and contribute to the code as you wish.
