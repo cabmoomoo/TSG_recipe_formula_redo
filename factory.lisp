@@ -54,6 +54,8 @@
     )
 ))
 
+(set recipe_redo_installed true)
+
 ))
 
 )
